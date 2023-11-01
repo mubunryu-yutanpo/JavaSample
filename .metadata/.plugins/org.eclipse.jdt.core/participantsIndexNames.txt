@@ -1,0 +1,5 @@
+INDEX VERSION 1.134
+/Users/yutaro/Desktop/java/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3320413355.index
+/JavaSample02/src/main/java
+/Users/yutaro/Desktop/java/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3036559093.index
+/JavaSample02/src/main/java

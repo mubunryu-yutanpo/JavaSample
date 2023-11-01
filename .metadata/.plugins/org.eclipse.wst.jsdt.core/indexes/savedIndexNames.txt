@@ -1,0 +1,8 @@
+INDEX VERSION 1.4+/Users/yutaro/Desktop/java/.metadata/.plugins/org.eclipse.wst.jsdt.core/indexes
+4086744879.index
+1306415582.index
+3588268754.index
+3036559093.index
+1315468354.index
+517444609.index
+2733388808.index
